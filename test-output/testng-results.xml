@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-28T17:23:10 CLT" name="Suite" finished-at="2022-06-28T17:23:21 CLT" duration-ms="10708">
+    <groups>
+    </groups>
+    <test started-at="2022-06-28T17:23:10 CLT" name="Test" finished-at="2022-06-28T17:23:21 CLT" duration-ms="10708">
+      <class name="pom.test.inicioSesionTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:pom.test.inicioSesionTest@2b6faea6]" started-at="2022-06-28T17:23:10 CLT" name="beforeClass" finished-at="2022-06-28T17:23:12 CLT" duration-ms="2466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="test2()[pri:0, instance:pom.test.inicioSesionTest@2b6faea6]" started-at="2022-06-28T17:23:12 CLT" name="test2" finished-at="2022-06-28T17:23:20 CLT" duration-ms="8019" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:pom.test.inicioSesionTest@2b6faea6]" started-at="2022-06-28T17:23:20 CLT" name="afterClass" finished-at="2022-06-28T17:23:21 CLT" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- pom.test.inicioSesionTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
